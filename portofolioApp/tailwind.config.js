@@ -16,6 +16,9 @@ export default {
             boxShadow: {
                 box1: "2px 2px 1px 4px",
             },
+            backgroundImage: {
+                "hero-pattern": "url(./src/assets/svg/topography.svg)",
+            },
         },
     },
     plugins: [require("tailwindcss-animate")],

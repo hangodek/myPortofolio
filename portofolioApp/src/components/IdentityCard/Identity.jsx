@@ -1,3 +1,5 @@
+import { motion } from "framer-motion";
+
 import myFoto from "../.././assets/pasfoto.png";
 import instagram_icon from "../.././assets/instagram_icon.png";
 import github_icon from "../.././assets/github_icon.png";
