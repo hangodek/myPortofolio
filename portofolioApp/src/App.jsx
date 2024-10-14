@@ -5,17 +5,17 @@ import Footer from "./components/Footer/Footer.jsx";
 import "./index.css";
 
 function App() {
-  return (
-    <>
-      <section>
-        <IdentityCard />
-        <ProjectCard />
-      </section>
-      <footer className="flex justify-center bg-black mt-4">
-        <Footer />
-      </footer>
-    </>
-  );
+    return (
+        <>
+            <section>
+                <IdentityCard/>
+                <ProjectCard/>
+            </section>
+            <footer className="flex justify-center bg-black mt-4">
+                <Footer/>
+            </footer>
+        </>
+    );
 }
 
 export default App;
